@@ -1,1 +1,1 @@
-# mi_primer_repo
+# Mi Primer Repo ## Descripción Programa sencillo en Python que saluda al usuario por su nombre. ## Lenguaje utilizado Python 3 ## Cómo ejecutar el proyecto 1. Clona el repositorio: git clone https://github.com/carolvinueza123-prog/mi_primer_repo.git 2. Entra a la carpeta: cd mi_primer_repo 3. Ejecuta el programa: python hola_mundo.py ## Autor Carol Vinueza — https://github.com/carolvinueza123-prog
